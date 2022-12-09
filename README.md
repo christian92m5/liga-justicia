@@ -15,3 +15,4 @@ Se actualizo directamente!!
 ### Estos cambios son nuevos
 
 Estos son cambios nuevos desde GitHub
+Estos son cambios desde mi repositorio local
